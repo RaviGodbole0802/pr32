@@ -86,8 +86,8 @@ function setup() {
 }
 
 function draw() {
-  if(backgroundImage) 
-  background(backgroundImage);
+  //if(backgroundImage) 
+  background(0);
 
   textSize(35);
   //fill(100,168,21);
